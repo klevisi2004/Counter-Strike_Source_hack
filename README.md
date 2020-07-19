@@ -3,3 +3,4 @@
 ### Activate hack: start the game, opening the hack, and pressing "f10" 
 ### This hack work only for "Counter-Strike Source"
 ### This hack don't work on "Counter-Strike Source v34" or other cs
+##### if the hack failed to downlaod, try to power off Virus Protection.
