@@ -4,4 +4,4 @@
 #### This hack work only for "Counter-Strike Source"
 #### This hack don't work on "Counter-Strike Source v34" or other cs
 ###                       WARNING!
-##### If the hack failed to downlaod, try to power off Virus Protection.
+##### If the hack failed to downlaod, try to download without Virus Protection.
