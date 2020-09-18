@@ -5,3 +5,6 @@
 #### This hack don't work on "Counter-Strike Source v34" or other cs
 ###                       WARNING!
 ##### If the hack failed to downlaod, try to download without Virus Protection.
+## Follow me:
+### https://www.instagram.com/klevis_r1
+### https://www.youtube.com/c/kvisiofficial/
